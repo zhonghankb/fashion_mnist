@@ -1,11 +1,11 @@
 # fashion_mnist
 simple image classification model by tensorflow
 
-model architecture:
-1:conv(3x3x32)
-2:batch_norm
-3:activation:swish
-4:maxpooling(2,2)
+model architecture:  
+1:conv(3x3x32)  
+2:batch_norm  
+3:activation:swish  
+4:maxpooling(2,2)  
 5:conv(3x3x64)
 6:batch_norm
 7:activation:swish
